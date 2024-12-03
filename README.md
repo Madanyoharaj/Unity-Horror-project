@@ -12,6 +12,18 @@ High-Quality Graphics: Enjoy detailed and atmospheric visuals powered by Unity.
 
 Sound Effects: Feel the tension with immersive sound design and chilling music.
 
+Installation
+Clone the repository:
+
+bash
+git clone https://github.com/your-username/ZombieRun.git
+Open the project in Unity:
+
+Open Unity Hub.
+
+Click on the Add button and select the cloned project folder.
+
+
 How to Play
 Movement: Use the arrow keys or WASD to move your character.
 
